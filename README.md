@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="27px">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100px">
  <br><br>
   <samp>
     Hello there, I'm Selcuk 👋<br>
