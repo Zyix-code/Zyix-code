@@ -5,7 +5,7 @@
     Merhaba, ben Selçuk 👋<br>
     24 yaşındayım ve bilgisayar programcılığı alanında mezun oldum.<br>
     Boş zamanlarımda kod yazmaktan keyif alıyorum.<br>
-    <br><br>😹 Her Şey İçin 👇</a>
+    <br>😹 Her Şey İçin 👇</a>
 </samp>
 </p>
 <p align="center">
