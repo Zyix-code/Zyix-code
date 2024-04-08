@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150px">
  <br><br>
   <samp>
-    Hello there, I'm Selcuk 👋<br>
-    I'm 24 years old and a graduate in computer programming.<br>
-    I enjoy coding in my spare time.<br>
-    <br><br>😹 For Everything 👇</a>
-  </samp>
+    Merhaba, ben Selçuk 👋<br>
+    24 yaşındayım ve bilgisayar programcılığı alanında mezun oldum.<br>
+    Boş zamanlarımda kod yazmaktan keyif alıyorum.<br>
+    <br><br>😹 Her Şey İçin 👇</a>
+</samp>
 </p>
 <p align="center">
   <a href="https://discord.com/users/481831692399673375" target="_blank"><img src="https://lanyard.cnrad.dev/api/481831692399673375?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
